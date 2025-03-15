@@ -1,21 +1,18 @@
-# Email Writer
+#AI-Email-Assistant
 
 ## Description
 
-**Email Writer** is an AI-powered email assistant that streamlines email communication. It features a **Spring Boot** backend, a **React** frontend, and a **browser extension** built with **Manifest V3**. The backend provides an API for generating email responses, while the extension integrates with **Gmail**, offering a seamless and efficient writing experience. Users can choose from **Professional**, **Casual**, or **Friendly** tones for their replies.
+**AI-Email-Assistant** is an AI-powered email assistant that streamlines email communication.  
 
-## Technologies Used
+It features:  
+- A **Spring Boot** backend that provides an API for generating email responses.  
+- A **React** frontend for an interactive user interface.  
+- A **browser extension** built with **Manifest V3**, which integrates seamlessly with **Gmail**.  
 
-- **Backend:**  
-  - Spring Boot  
-
-- **Frontend:**  
-  - React  
-
-- **Browser Extension:**  
-  - Manifest V3  
-  - JavaScript  
-  - CSS  
+Users can choose from three response tones to match their communication style:  
+- **Professional**  
+- **Casual**  
+- **Friendly**  
 
 
 ## Setup and Installation
